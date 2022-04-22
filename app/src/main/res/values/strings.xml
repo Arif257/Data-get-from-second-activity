@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataGetFrom SecondActivity</string>
+    <string name="button_1">go to second activity</string>
+    <string name="button_2">go to first activity</string>
+</resources>
